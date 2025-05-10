@@ -19,9 +19,24 @@ Offers a fully customizable calendar.
 
 ## 📸 Screenshots
 
-### Login Page
+### Login Screen
 > Login page that allows users to log in either by receiving a code sent to their phone number or by using their username and password.
-<img src="asset/img/Login.png" width="400" height="800"/>
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="asset/img/Login.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/login-userpass.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
+  </div>
+</div>
+
+### Home Screen
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="asset/img/Login.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/login-userpass.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
+  </div>
+</div>
 
 
 
