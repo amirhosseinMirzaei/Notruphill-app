@@ -178,6 +178,17 @@ Offers a fully customizable calendar.
    
 </div>
 
+---
+
+### 📆 Study Calendar
+>To add a new study plan, you first select the type of session (e.g., review, new study, practice test), then choose the subject and specific topic to be studied. After that, you set the duration and optionally add a description or notes.
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/planing.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/planning.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   
+</div>
+
 
 
 
