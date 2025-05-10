@@ -106,6 +106,7 @@ Offers a fully customizable calendar.
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="asset/img/timer.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+      <img src="asset/img/timer-full.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
    
   </div>
 </div>
