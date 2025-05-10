@@ -90,27 +90,97 @@ Offers a fully customizable calendar.
 >In the quiz section, you can view your available quizzes, participate in them, and check your results. After completing a quiz, you can access your report card, including the answer key and detailed analysis of each question.
 
 
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/quiz.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/quiz-empty.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-  </div>
-</div>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/quiz.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/quiz-empty.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   
 </div>
 
-### Notro-Clock (Timer)
+### 🕒 Notro-Clock (Timer)
 >This customized timer allows you to study and record your study hours. You can also activate the Focus Lock mode, which locks your phone and helps you avoid distractions for a more effective study session.
 
 
-
-<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
-  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/timer.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-      <img src="asset/img/timer-full.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/timer.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/timer-full.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
    
+</div>
+<hr style="border: 0; border-top: 1px solid #333; margin: 30px 0;"/>
+
+#### ✅ Step 1: Battery Access
+>To ensure the timer and focus mode work properly in the background, battery optimization access is required.
+
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/battery.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+</div>
+
+---
+
+#### ✅ Step 2: Start Timer
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/timer-start.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+</div>
+
+---
+#### ✅ Step 3: Exit Timer
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/save-study.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+</div>
+
+---
+
+#### ✅ Step 4: Save Study
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/empty-plan.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/add-study.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/choose-course.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/choose-course2.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+    <img src="asset/img/detail1.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+</div>
+
+---
+
+#### ✅ Step 4: Enter Tests
+>Enter the number of tests you studied, along with the number of correct, incorrect, and unanswered questions.
+
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/tests.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+</div>
+
+---
+
+### 📚 Detail of your Study
+>On this page, you can view detailed records of your study sessions, including total study hours, subject descriptions, and study types such as watching educational videos, reviewing, learning new material, and taking practice tests. The covered topics are also clearly displayed.
+
+
+<div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+    <img src="asset/img/detail-plan.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/detail-study.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+     <img src="asset/img/complete-studyt.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    
   </div>
 </div>
+
+---
+
+### 📝➕ Add Study
+>To add a new study plan, you first select the type of session (e.g., review, new study, practice test), then choose the subject and specific topic to be studied. After that, you set the duration and optionally add a description or notes.
+
+<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
+  <img src="asset/img/planing.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/planning.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+   
 </div>
+
+
+
+
 
 
 
