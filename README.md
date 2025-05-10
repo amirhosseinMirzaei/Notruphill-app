@@ -4,5 +4,11 @@ The project focuses on helping students study more effectively and facilitating 
 
 ## 🛠 Features
 
-- 1. Distraction-free study sessions using a focus timer lock:
+- Distraction-free study sessions using a focus timer lock:
 Helps students maintain complete concentration by locking the device during study periods, minimizing distractions and promoting deep focus.
+
+-2 Daily and hourly study planning by both students and advisors:
+Allows students and their academic advisors to collaboratively design personalized study schedules for each day and hour. Both parties can track the student’s progress in real time.
+
+-3 Custom quiz creation for student assessment:
+Enables advisors to design quizzes tailored to each student’s learning path, helping evaluate their understanding and track improvemen
