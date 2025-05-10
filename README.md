@@ -18,7 +18,12 @@ Encourages students to stay motivated by allowing them to compete with peers in 
 Offers a fully customizable calendar.
 
 ## 📸 Screenshots
-### ![Login Screen](assets/img/Login.png | width=300)
+
+### Login Page
+> Login page that allows users to log in either by receiving a code sent to their phone number or by using their username and password.
+<img src="asset/img/Login.png" width="400" height="800"/>
+
+
 
 
 
