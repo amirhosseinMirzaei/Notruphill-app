@@ -54,6 +54,23 @@ Offers a fully customizable calendar.
 ### Notru-Plus Screen (Tools page)
 > On this page, from top to bottom, you can see the user's profile picture and the notifications section. Below that, the countdown to the next exam is displayed. The competitive panel shows the top 3 students of the day in terms of study progress. The green section provides access to the timer, and further down, the app's tools are listed, each of which will be detailed separately in the following sections.
 
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="asset/img/notro-plus.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/tools.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+  </div>
+</div>
+
+### Profile Screen and edit Profile Screen
+> In this section, the user's information, including their education level, biography, and notifications, is displayed. You can edit your personal details in the account settings section. Information related to your field of study and education level provides you with access to the relevant courses for that level.
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="asset/img/notro-plus.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/tools.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+  </div>
+</div>
+
 
 
 
