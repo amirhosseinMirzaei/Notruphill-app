@@ -61,7 +61,9 @@ Offers a fully customizable calendar.
   </div>
 </div>
 
-### Profile Screen and edit Profile Screen
+---
+
+### 👤 Profile Screen and edit Profile Screen
 > In this section, the user's information, including their education level, biography, and notifications, is displayed. You can edit your personal details in the account settings section. Information related to your field of study and education level provides you with access to the relevant courses for that level.
 
 <div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
@@ -71,6 +73,8 @@ Offers a fully customizable calendar.
     <img src="asset/img/user-info.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </div>
 </div>
+
+---
 
 ### 🥇 Competitive Panel
 > In this section, you can view your rank among all students as well as see the top-performing students. Detailed statistics show your progress compared to others, including study hours, number of quizzes completed, and tasks achieved. The panel provides a clear view of how you measure up against your peers, motivating you to keep improving and stay engaged.Additionally, the Manual Entry section allows you to input data such as the number of quizzes taken and study hours manually. Based on this information, your rank will be updated accordingly.
@@ -84,6 +88,8 @@ Offers a fully customizable calendar.
      <img src="asset/img/manual.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </div>
 </div>
+
+---
 
 ### 🎯 Quiz Challenge
 >In the quiz section, you can view your available quizzes, participate in them, and check your results. After completing a quiz, you can access your report card, including the answer key and detailed analysis of each question.
@@ -196,15 +202,12 @@ Offers a fully customizable calendar.
 ---
 
 ### 📊 Study Progress Chart 
->This calendar displays all days, whether you have study plans or not. Similar to the main page, each day is color-coded based on how much of the planned activities were completed—clearly showing your level of activity for each day.
-
 
 
 <div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
-    <img src="asset/img/calender.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/fill-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/empty-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/graph.png" width="350" height="750" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+   
 
   </div>
 </div>
