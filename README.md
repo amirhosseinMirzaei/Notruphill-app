@@ -14,5 +14,10 @@ Allows students and their academic advisors to collaboratively design personaliz
 Enables advisors to design quizzes tailored to each student’s learning path, helping evaluate their understanding and track improvemen
 - Competitive panel:
 Encourages students to stay motivated by allowing them to compete with peers in a friendly environment.
+- Customizable calendar:
+Offers a fully customizable calendar.
+
+
+
 
 
