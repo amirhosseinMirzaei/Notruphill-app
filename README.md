@@ -1,4 +1,4 @@
-# consultant-app
+# Notruphil-app
 # 🚀 My Project
 The project focuses on helping students study more effectively and facilitating seamless communication between students and their academic advisors. Advisors can create personalized study plans for their students and track their progress over time.(source code private for privacy reasons)
 
