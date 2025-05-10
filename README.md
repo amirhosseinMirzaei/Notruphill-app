@@ -19,25 +19,25 @@ Offers a fully customizable calendar.
 
 ## 📸 Screenshots
 
-### Login Screen
+### 🔐 Login Screen  
 > Login page that allows users to log in either by receiving a code sent to their phone number or by using their username and password.
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/Login.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/login-userpass.png" width="400" height="800" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/Login.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/login-userpass.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
 
 <hr style="border: 1px solid #333; margin: 30px 0;"/>
 
-### Home Screen
+### 🏠 Home Screen
 > On the main page, you can view personalized schedules provided by both the student and the advisor. The orange schedule is set by the student, while the red schedule is assigned by the advisor. The "وضعیت من" section, designed like a car's speedometer, displays the student's overall study progress, including the number of quizzes taken, study hours, completed and pending tasks, and more.
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/home-empty.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/home-plan-info.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home-empty.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home-plan-info.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
 <hr style="border: 0; border-top: 1px solid #333; margin: 30px 0;"/>
@@ -46,18 +46,18 @@ Offers a fully customizable calendar.
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/home.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/plan.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/plan.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
 
-### Notru-Plus Screen (Tools page)
+### 🧰 Notru-Plus Screen (Tools page)
 > On this page, from top to bottom, you can see the user's profile picture and the notifications section. Below that, the countdown to the next exam is displayed. The competitive panel shows the top 3 students of the day in terms of study progress. The green section provides access to the timer, and further down, the app's tools are listed, each of which will be detailed separately in the following sections.
 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/notro-plus.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/tools.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/notro-plus.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/tools.png" width="300" height="650" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
 
@@ -66,33 +66,32 @@ Offers a fully customizable calendar.
 
 <div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
-    <img src="asset/img/info1.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/user-info-2.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/user-info.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/info1.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/user-info-2.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/user-info.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </div>
 </div>
 
-### Competitive Panel
+### 🥇 Competitive Panel
 > In this section, you can view your rank among all students as well as see the top-performing students. Detailed statistics show your progress compared to others, including study hours, number of quizzes completed, and tasks achieved. The panel provides a clear view of how you measure up against your peers, motivating you to keep improving and stay engaged.Additionally, the Manual Entry section allows you to input data such as the number of quizzes taken and study hours manually. Based on this information, your rank will be updated accordingly.
-
 
 
 <div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
   <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
-    <img src="asset/img/comp-page.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/comp-detail.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
-    <img src="asset/img/comp-detail2.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/comp-page.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/comp-detail.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/comp-detail2.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
      <img src="asset/img/manual.png" width="300" height="600" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
   </div>
 </div>
 
-### Quiz Screen
+### 🎯 Quiz Challenge
 >In the quiz section, you can view your available quizzes, participate in them, and check your results. After completing a quiz, you can access your report card, including the answer key and detailed analysis of each question.
 
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/quiz.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/quiz-empty.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/quiz.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/quiz-empty.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
    
 </div>
 
@@ -101,8 +100,8 @@ Offers a fully customizable calendar.
 
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/timer.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/timer-full.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/timer.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/timer-full.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
    
 </div>
 <hr style="border: 0; border-top: 1px solid #333; margin: 30px 0;"/>
@@ -112,7 +111,7 @@ Offers a fully customizable calendar.
 
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/battery.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/battery.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
 </div>
 
 ---
@@ -120,14 +119,14 @@ Offers a fully customizable calendar.
 #### ✅ Step 2: Start Timer
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/timer-start.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/timer-start.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
 </div>
 
 ---
 #### ✅ Step 3: Exit Timer
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/save-study.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/save-study.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
 </div>
 
 ---
@@ -135,11 +134,11 @@ Offers a fully customizable calendar.
 #### ✅ Step 4: Save Study
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/empty-plan.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/add-study.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/choose-course.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/choose-course2.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-    <img src="asset/img/detail1.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/empty-plan.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/add-study.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/choose-course.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/choose-course2.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+    <img src="asset/img/detail1.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
 </div>
 
 ---
@@ -149,7 +148,7 @@ Offers a fully customizable calendar.
 
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/tests.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/tests.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
 </div>
 
 ---
@@ -173,20 +172,41 @@ Offers a fully customizable calendar.
 >To add a new study plan, you first select the type of session (e.g., review, new study, practice test), then choose the subject and specific topic to be studied. After that, you set the duration and optionally add a description or notes.
 
 <div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/planing.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/planning.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
+  <img src="asset/img/planing.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
+   <img src="asset/img/planning.png" width="300" height="650" style="border: 4px solid #aaa; border-radius: 10px;" />
    
 </div>
 
 ---
 
 ### 📆 Study Calendar
->To add a new study plan, you first select the type of session (e.g., review, new study, practice test), then choose the subject and specific topic to be studied. After that, you set the duration and optionally add a description or notes.
+>This calendar displays all days, whether you have study plans or not. Similar to the main page, each day is color-coded based on how much of the planned activities were completed—clearly showing your level of activity for each day.
 
-<div style="background-color: #f9f9f9; padding: 20px; border-radius: 10px; text-align: center;">
-  <img src="asset/img/planing.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   <img src="asset/img/planning.png" width="350" height="750" style="border: 4px solid #aaa; border-radius: 10px;" />
-   
+
+
+<div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+    <img src="asset/img/calender.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/fill-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/empty-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+  </div>
+</div>
+
+---
+
+### 📊 Study Progress Chart 
+>This calendar displays all days, whether you have study plans or not. Similar to the main page, each day is color-coded based on how much of the planned activities were completed—clearly showing your level of activity for each day.
+
+
+
+<div style="background-color: #f2f2f2; padding: 30px; border-radius: 15px; text-align: center; box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.1);">
+  <div style="display: flex; justify-content: space-evenly; align-items: center; gap: 20px;">
+    <img src="asset/img/calender.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/fill-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+    <img src="asset/img/empty-calendar.png" width="300" height="650" style="border: 4px solid #333; border-radius: 10px; box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);"/>
+
+  </div>
 </div>
 
 
