@@ -30,11 +30,11 @@ Offers a fully customizable calendar.
 </div>
 
 ### Home Screen
-
+> 
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
-    <img src="asset/img/home.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/plan.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home-empty.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home-plan-info" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
 
