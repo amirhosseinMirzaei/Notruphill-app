@@ -29,14 +29,33 @@ Offers a fully customizable calendar.
   </div>
 </div>
 
+<hr style="border: 1px solid #333; margin: 30px 0;"/>
+
 ### Home Screen
-> 
+> On the main page, you can view personalized schedules provided by both the student and the advisor. The orange schedule is set by the student, while the red schedule is assigned by the advisor. The "وضعیت من" section, designed like a car's speedometer, displays the student's overall study progress, including the number of quizzes taken, study hours, completed and pending tasks, and more.
+
 <div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
   <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
     <img src="asset/img/home-empty.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
-    <img src="asset/img/home-plan-info" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/home-plan-info.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
   </div>
 </div>
+<hr style="border: 0; border-top: 1px solid #333; margin: 30px 0;"/>
+
+> In the calendar section, the green color indicates that over 70% of the day's tasks have been completed. The orange color represents completion below 70%, while the red color means less than 20% of the tasks have been completed.
+
+<div style="background-color: #f2f2f2; padding: 20px; border-radius: 10px; text-align: center;">
+  <div style="display: flex; justify-content: center; align-items: center; gap: 20px;">
+    <img src="asset/img/home.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+    <img src="asset/img/plan.png" width="400" height="900" style="border: 5px solid #333; border-radius: 10px;"/>
+  </div>
+</div>
+
+### Notru-Plus Screen (Tools page)
+> On this page, from top to bottom, you can see the user's profile picture and the notifications section. Below that, the countdown to the next exam is displayed. The competitive panel shows the top 3 students of the day in terms of study progress. The green section provides access to the timer, and further down, the app's tools are listed, each of which will be detailed separately in the following sections.
+
+
+
 
 
 
