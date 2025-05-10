@@ -18,7 +18,7 @@ Encourages students to stay motivated by allowing them to compete with peers in 
 Offers a fully customizable calendar.
 
 ## 📸 Screenshots
-### ![Login Screen](assets/images/login.png | width=300)
+### ![Login Screen](assets/images/Login.png | width=300)
 
 
 
